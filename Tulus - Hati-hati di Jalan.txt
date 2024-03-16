@@ -6,6 +6,9 @@ Sepertimu yang kucari
 Konon aku juga seperti yang kau cari
 Kukira kita asam dan garam
 Dan kita bertemu di Belanga
+<<<<<<< HEAD
+Arkan
+=======
 
 
 
@@ -15,10 +18,15 @@ Dan kita bertemu di Belanga
 
 
 
+>>>>>>> 9488e1ee53fc117e04f58eadf7d7e3aadd9f8480
 >>>>>>> 4a3de923cb344115a929f3f4b006d7f73ed04fe0
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 Meisfa
+=======
+Mutiara
+>>>>>>> ddf611f88b7b7371f147a140c36607db268eb81d
 =======
 <<<<<<< HEAD
 
@@ -26,4 +34,8 @@ Kyandra
 =======
 rama
 >>>>>>> c747348ce8b5e77a756602cb54d757afe1f4eeed
+<<<<<<< HEAD
 >>>>>>> 9488e1ee53fc117e04f58eadf7d7e3aadd9f8480
+=======
+>>>>>>> e09200b2f0366e119d586cd19e21bdc424398462
+>>>>>>> ddf611f88b7b7371f147a140c36607db268eb81d
