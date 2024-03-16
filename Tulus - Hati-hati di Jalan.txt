@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD Gilang
 =======
 Perjalanan membawamu
 Bertemu denganku
@@ -6,6 +6,24 @@ Sepertimu yang kucari
 Konon aku juga seperti yang kau cari
 Kukira kita asam dan garam
 Dan kita bertemu di Belanga
+
+
+
+
+
+
+
+
+
 >>>>>>> 4a3de923cb344115a929f3f4b006d7f73ed04fe0
+<<<<<<< HEAD
 
 Meisfa
+=======
+<<<<<<< HEAD
+
+Kyandra
+=======
+rama
+>>>>>>> c747348ce8b5e77a756602cb54d757afe1f4eeed
+>>>>>>> 9488e1ee53fc117e04f58eadf7d7e3aadd9f8480
